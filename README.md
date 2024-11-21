@@ -5,7 +5,7 @@ This project focuses on predicting wine quality based on its chemical characteri
 To predict the quality of wine using machine learning models and identify which chemical properties have the most significant influence on the prediction.
 
 ## Dataset Used:
-- a href = <"https://github.com/Paschal-lee/Wine-Quality-Prediction/blob/main/WineQT.csv">Dataset</a>
+- <a href="https://github.com/Paschal-lee/Wine-Quality-Prediction/blob/main/WineQT.csv">Dataset</a>
 
 ## Key Questions:
 What are the key chemical attributes that influence wine quality?
